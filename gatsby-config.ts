@@ -35,7 +35,7 @@ const config: GatsbyConfig = {
 	  path: `${__dirname}/content`,
 	},
 	__key: "blog"
-  },]
+  }, "gatsby-plugin-decap-cms"]
 };
 
 export default config;
