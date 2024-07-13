@@ -1,8 +1,10 @@
 ---
-title: "My First Post"
-date: "2021-07-23"
-slug: "my-first-post"
+title: My First Post
+date: 2021-07-23
+slug: my-first-post
+description: prova
 ---
+![lavatorio](el_lavatorio_-tintoretto-.jpg "lavatorio")
 
 This is my first blog post! Isn't it *great*?
 
